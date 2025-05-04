@@ -14,7 +14,7 @@ Empty spaces are represented by blank spaces (' ').
 Gameplay: The maze is generated randomly, and the player must navigate through it to reach the finish. The maze is displayed on the console, and the player's progress is shown in real-time.
 
 
-**How to Play**
+**How to Play:**
 Enter the size of the maze when prompted. Ensure that the size is greater than 4.
 Use the 'W', 'S', 'A', 'D' keys to navigate through the maze.
 Reach the finish position ('F') to complete the maze.
@@ -66,7 +66,7 @@ A or a: Move tiles to the left
 D or d: Move tiles to the right
 
 
-**How to Play**
+**How to Play:**
 Run the executable file or compile and run the C source code.
 Press any key to start the game.
 Use the controls mentioned above to move tiles and combine them strategically.
@@ -93,7 +93,7 @@ Game Over: The game ends when the snake collides with the boundaries of the boar
 Score: Each time the snake eats food, the score increases by one.
 
 
-**How to Play**
+**How to Play:**
 Control the snake's direction using the arrow keys.
 Try to eat as much food as possible without colliding with the boundaries or the snake itself.
 The game ends when the snake cannot move further.
